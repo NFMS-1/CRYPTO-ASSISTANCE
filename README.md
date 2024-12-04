@@ -3,11 +3,11 @@
 ### 1. Setting up
 > Make sure to enable your DM permissions (or temporarily enable them) so the crypto bot (tip.cc) can privately message you to handle transactions.
 >
-> Q: Why should I use tip.cc when I can just send the funds directly?
-> A: Bitcoin transactions are traceable. Using the bot as an intermediary adds an extra layer of privacy by hiding personal wallet addresses, enhancing anonymity.
+> **Q:** Why should I use tip.cc when I can just send the funds directly?
+> **A:** Bitcoin transactions are traceable. Using the bot as an intermediary adds an extra layer of privacy by hiding personal wallet addresses, enhancing anonymity.
 > 
-> Q: What about Monero?
-> A: For Monero users, I offer an alternative that allows you to send funds directly to a node instead of using the bot.
+> **Q:** What about Monero?
+> **A:** For Monero users, I offer an alternative that allows you to send funds directly to a node instead of using the bot.
 
 ### 2. Depositing Funds
 > 1. Click on the **tip.cc** bot in the server to open a private chat (since the server does not support public chat).
