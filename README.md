@@ -13,15 +13,15 @@
 > 1. Click on the **tip.cc** bot in the server to open a private chat (since the server does not support public chat).
 > 2. Type `$deposit btc`. A pop-up will appear with a QR code and BTC address. You can use third-party services like Coinbase to deposit the funds.
 
-https://media.discordapp.net/attachments/1169125512002687048/1313884103136776212/Screenshot_2024-12-04_082637.png?ex=6751c16c&is=67506fec&hm=c98e06bcae7410fe0ea3e5c2c340eaccc42ba8e856139c26e8036e8f099b16e6&=&format=webp&quality=lossless
+https://media.discordapp.net/attachments/890601864855420929/1313965237493305355/Screenshot_2024-12-04_082637.png?ex=67520cfc&is=6750bb7c&hm=3bd9172431acaa823b7a7be7029536a3ad8ebaff88550fe5d186ed423c5d0ddc&=&format=webp&quality=lossless
 
 > 3. After depositing the funds, you will see a pop-up confirming that your deposit has been received and is being processed.
 
-https://media.discordapp.net/attachments/1169125512002687048/1313884862398074971/Screenshot_2024-12-04_083600.png?ex=6751c221&is=675070a1&hm=dd8a1c0004c3b820feda903c0c0972e1a78b99ed28db9944614670dd3ae333d3&=&format=webp&quality=lossless
+https://media.discordapp.net/attachments/890601864855420929/1313965238562852905/Screenshot_2024-12-04_083600.png?ex=67520cfd&is=6750bb7d&hm=8f2dac99a58c5a7b813686555aaeafde186c26ecc494dcf9a38458edbfbadde0&=&format=webp&quality=lossless
 
 > 4. You will get final pop-up confirming that your funds have been finalized.
 
-https://media.discordapp.net/attachments/1169125512002687048/1313885104128397336/Screenshot_2024-12-04_084350.png?ex=6751c25b&is=675070db&hm=4c21707b6cb8dc6e4a255033f7f1f7394a190c673eadd1b6ae985da191200c83&=&format=webp&quality=lossless
+https://media.discordapp.net/attachments/890601864855420929/1313965237967388742/Screenshot_2024-12-04_084350.png?ex=67520cfd&is=6750bb7d&hm=957c19f592ba978f349c74c2eb31af29968e41dac98b03cb04915d9516c2643f&=&format=webp&quality=lossless
 
 ### 3. Orders
 > Using the funds, you can purchase products from [the shop](https://discord.com/channels/890594623347650560/890602478280773642) by typing the command `$tip @nfms <amount>` in [your orders](https://discord.com/channels/890594623347650560/1214622711322779769).
